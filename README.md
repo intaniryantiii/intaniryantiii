@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Intan 👋
+
+I'm currently working as Back End Engineer at Pro Accounting Services (Pro Acc)
 
 <!--
 **intaniryantiii/intaniryantiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
